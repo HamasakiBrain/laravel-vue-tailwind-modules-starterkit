@@ -47,14 +47,18 @@ npm run init
 ~~~bash
 cp .env.example .env
 ~~~
+5. Create key for app
+~~~bash
+php artisan key:generate
+~~~
 
-5. Start the server  
+6. Start the server  
 
 ~~~bash  
 npm run dev
 ~~~
 
-6. Build the server  
+7. Build the server  
 
 ~~~bash  
 npm run build
