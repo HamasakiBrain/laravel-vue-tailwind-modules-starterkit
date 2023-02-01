@@ -51,8 +51,12 @@ cp .env.example .env
 ~~~bash
 php artisan key:generate
 ~~~
-
-6. Start the server  
+6. Configure db connection in `.env`
+7. Migrate migrations
+~~~bash
+php artisan migrate
+~~~
+8. Start the server  
 
 ~~~bash  
 npm run dev
