@@ -43,15 +43,18 @@ cd laravel-vue-tailwind-modules-starterkit
 ~~~bash  
 npm run init
 ~~~
+4. Copy .env.example to .env
+~~~bash
+cp .env.example .env
+~~~
 
-
-4. Start the server  
+5. Start the server  
 
 ~~~bash  
 npm run dev
 ~~~
 
-5. Build the server  
+6. Build the server  
 
 ~~~bash  
 npm run build
