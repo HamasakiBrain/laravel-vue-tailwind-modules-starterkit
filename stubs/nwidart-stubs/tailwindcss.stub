@@ -1,0 +1,11 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+    content: [
+        "./Resources/**/*.{html,js,vue,php}",
+        "./Resources/**/**/*.{html,js,vue,php}",
+    ],
+    theme: {
+        extend: {},
+    },
+    plugins: [],
+}
