@@ -1,24 +1,23 @@
-<p style="display: flex; align-items:center; flex-wrap: wrap; max-width: 500px; justify-content: center; width: 100%;">
-    <a href="https://laravel.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="80" alt="Laravel Logo"></a>
-    <a href="https://tailwindcss.com/" target="_blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
-            <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg"  height="30">
-        </picture>
-    </a>
+<p align="center">
+<a href="https://laravel.com"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="70" alt="Laravel Logo"></a>
 </p>
-<p style="display: flex; align-items:center; max-width: 500px; justify-content: center; width: 100%; ">
-    <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer">
-        <img height="80" src="https://vuejs.org/images/logo.png" alt="Vue logo">
+<p align="center">
+<a href="https://tailwindcss.com/">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" height="20">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" height="20">
+    <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg"  height="20">
+</picture>
+</a>
+</p>
+<p align="center">
+  <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer">
+        <img height="60" src="https://vuejs.org/images/logo.png" alt="Vue logo">
     </a>
     <a style="position: relative;">
-        <img height="100" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite logo" />
+        <img height="75" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite logo" />
     </a>
 </p>
-<div style="z-index: -1;position: fixed;top: 0%;left: 0%;border-radius: 50%;width: 100%;height: 100%;background-image: linear-gradient(-45deg, rgb(189, 52, 254) 50%, rgb(71, 202, 255) 50%);filter: blur(300px);"></div>
-
 
 # laravel-vue-tailwind-modules-starterkit   
 This starter kit with Vue, Tailwindcss, Laravel modular architecture
