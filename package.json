@@ -3,7 +3,7 @@
     "scripts": {
         "dev": "vite",
         "build": "vite build",
-        "init": "npm i && composer install"
+        "init": "npm i && composer install && cp .env.example .env && php artisan key:generate"
     },
     "devDependencies": {
         "@inertiajs/vue3": "^1.0.0",
