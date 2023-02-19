@@ -47,22 +47,18 @@ npm run init
 ~~~bash
 cp .env.example .env
 ~~~
-5. Create key for app
-~~~bash
-php artisan key:generate
-~~~
-6. Configure db connection in `.env`
-7. Migrate migrations
+5. Configure db connection in `.env`
+6. Migrate migrations
 ~~~bash
 php artisan migrate
 ~~~
-8. Start the server  
+7. Start the server  
 
 ~~~bash  
 npm run dev
 ~~~
 
-7. Build the server  
+8. Build the server  
 
 ~~~bash  
 npm run build
